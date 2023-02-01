@@ -1,0 +1,73 @@
+.title{
+    text-align: center;
+    background-color: aqua;
+}
+
+h1 {
+    margin: auto;
+    margin-bottom: 5px;
+    padding: 20px;
+}
+
+select {
+    padding: 4px;
+    border-radius: 4px;
+    width: 200px;
+    outline: none;
+}
+
+.select{
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.mainBody{
+    display: flex;
+    flex-wrap:wrap;
+    column-gap: 30px;
+    row-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+.imgSec img, img{
+    width: 200px;
+    height: 200px;
+}
+
+.pagination{
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-top: 76px;
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.heading button{
+    border: none;
+    outline: none;
+    padding: 3px;
+    background-color: orange;
+    color: white;
+}
+
+.modalBody{
+    display: flex;
+    margin-top: 20px;
+}
+
+.pop {
+    border: 1px solid lightgrey;
+    padding: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}

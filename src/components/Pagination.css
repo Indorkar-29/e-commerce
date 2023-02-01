@@ -1,0 +1,15 @@
+.pageBody{
+    display: flex;
+    column-gap: 10px;
+}
+
+.blue{
+    color: darkblue;
+    border: 2px solid black;
+    padding: 1px;
+    background: lightgray;
+}
+
+.grey{
+    color: rgb(196,195,195);
+}
